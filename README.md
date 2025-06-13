@@ -1,3 +1,4 @@
+
 # 📺 Netflix Viewer Pattern Analytics
 
 A data analytics project that uncovers trends, insights, and visualizations from Netflix's catalog data using Python, Pandas, and Seaborn. This project is designed to showcase EDA (Exploratory Data Analysis) skills, data visualization, and storytelling through data.
@@ -62,3 +63,6 @@ netflix-analytics/
 │
 ├── README.md
 └── requirements.txt
+=======
+# netflix-analytics
+
